@@ -1,0 +1,104 @@
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\EntityFramework.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\EntityFramework.SqlServer.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Google.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Owin.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\System.Web.Providers.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\WebGrease.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.pdb
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\EntityFramework.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\EntityFramework.SqlServer.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\System.Web.Providers.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Google.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+E:\FTFL\02 Batch\9 Jan 2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll.config
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\CalculatorApp.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\CalculatorApp.pdb
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\EntityFramework.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\EntityFramework.SqlServer.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Owin.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\System.Web.Providers.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\WebGrease.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\System.Web.Optimization.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Antlr3.Runtime.pdb
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Newtonsoft.Json.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\EntityFramework.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\EntityFramework.SqlServer.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\System.Web.Providers.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.dll
+E:\Fdrive\ftfl c#\9-1-15\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
